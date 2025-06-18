@@ -9,11 +9,12 @@
 
 [![dpope32's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dpope32&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dpope32&theme=github-compact&hide_border=true&hide_title=true&area=true&area_color=22272e&line=58a6ff&point=1f6feb)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 ## 📊 Stats
 
-![dpope32's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide=stars)
-
-
+![dpope32's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide=stars,issues,contribs)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
