@@ -31,7 +31,7 @@ const currentFocus = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpope32&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </div>
 
-## ⚡ Tech Arsenal
+## ⚡ Favorite Stack
 
 <div align="center">
   
@@ -44,31 +44,21 @@ const currentFocus = {
 
 </div>
 
-## 📊 Metrics
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" alt="dpope32's GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
-## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
-## 💭 Philosophy
 
 <div align="center">
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%2C%20but%20shipping%20is%20prose.&author=dpope32)](https://github.com/piyushsuthar/github-readme-quotes)
   
-</div>
-
-## 🌌 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpope32&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -90,6 +80,4 @@ Hidden Analytics
 ![](https://hit.yhype.me/github/profile?user_id=dpope32)
 -->
 
-<!-- 
-🎯 TODO: Replace YOUR_SPOTIFY_ID with your actual Spotify user ID if you want the music widget
--->
+
