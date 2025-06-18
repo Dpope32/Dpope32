@@ -34,11 +34,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" alt="dpope32's stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -48,9 +43,8 @@
 <br/>
 
 <div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dawsonalex32&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false)](https://spotify.com/user/dawsonalex32)
-  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" alt="dpope32's stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br/>
