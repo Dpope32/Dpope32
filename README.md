@@ -34,8 +34,6 @@
 
 <br/>
 
-<br/>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </div>
@@ -43,8 +41,8 @@
 <br/>
 
 <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true" alt="Top Languages" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" alt="dpope32's stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br/>
