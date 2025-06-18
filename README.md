@@ -1,8 +1,8 @@
 # 🧠 dpope32
 
 > “Build like a ghost. Ship like a storm.”
-> 📍 You won’t find tutorials here. Just working code and ideas I couldn't stop thinking about.
 
+> 📍 You won’t find tutorials here. Just working code and ideas I couldn't stop thinking about.
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=dpope32&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
