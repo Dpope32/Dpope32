@@ -4,15 +4,16 @@
 
 > 📍 You won’t find tutorials here. Just working code and ideas I couldn't stop thinking about.
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dpope32&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dpope32&theme=github-compact&hide_border=true&hide_title=true&area=true&area_color=22272e&line=58a6ff&point=1f6feb)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## 📊 Stats
 
 ![dpope32's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide=stars,issues,contribs)
+
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=dpope32&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo)
