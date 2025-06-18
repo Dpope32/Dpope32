@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpope32&theme=tokyonight_duo&hide_border=true&background=#0D1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpope32&theme=tokyonight_duo&hide_border=true" alt="streak stats" />
 </div>
 
 <br/>
