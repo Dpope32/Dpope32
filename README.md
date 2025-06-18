@@ -18,12 +18,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpope32&theme=tokyonight_duo&hide_border=true" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
   
 | **Core** | **Tools** | **Exploring** |
 |:---:|:---:|:---:|
@@ -35,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&title=-Reviews,-Issues" alt="trophies" />
 </div>
 
 <br/>
