@@ -12,14 +12,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpope32&theme=react-dark&hide_border=true&area=true&area_color=1f6feb&line=58a6ff&point=58a6ff&color=58a6ff&height=300" width="100%" alt="activity graph" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=dpope32&theme=react-dark&hide_border=true&area=true&area_color=1f6feb&line=58a6ff&point=58a6ff&color=58a6ff&height=300" width="100%" alt="activity graph" />
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&title=-Reviews,-Issues" alt="trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=dpope32&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&title=-Reviews,-Issues" alt="trophies" />
 </div>
 
 <br/>
