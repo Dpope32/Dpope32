@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=dpope32&theme=react-dark&hide_border=true&area=true&area_color=1f6feb&line=58a6ff&point=58a6ff&color=58a6ff&height=300" width="100%" alt="activity graph" />
+  <img src="assets/activity.svg" width="100%" alt="Contribution heatmap" />
 </div>
 
 <br/>
@@ -26,13 +26,13 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpope32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dpope32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" alt="dpope32's stats" />
+  <img width="48%" src="assets/stats.svg" alt="dpope32's stats" />
 </div>
 
 <br/>
 
 <div align="center">
   
-  *"Code is poetry, but shipping is prose."*
+  *"Professional button clicker."*
   
 </div>
